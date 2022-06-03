@@ -262,6 +262,8 @@ return [
         'Magento_PaypalReCaptcha' => 1,
         'MSP_TwoFactorAuth' => 1,
         'ModulosNeus_Modulo1' => 1,
+        'PHPNeus_BannerSlider' => 1,
+        'PHPNeus_TextLink' => 1,
         'Temando_ShippingRemover' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
