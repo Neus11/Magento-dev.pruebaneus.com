@@ -2,8 +2,8 @@
 
 <widgets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Widget:etc/widget.xsd">
-    <widget id="phpcuong_banners_slider"
-            class="PHPCuong\BannerSlider\Block\Widget\BannerSlider"
+    <widget id="phpneus_banners_slider"
+            class="PHPNeus\BannerSlider\Block\Widget\BannerSlider"
             placeholder_image="PHPNeus_BannerSlider::images/banner-slider-widget.png" ttl="86400">
         <label translate="true">Banners Slider</label>
         <description translate="true">Show the banners slider via Group Name</description>

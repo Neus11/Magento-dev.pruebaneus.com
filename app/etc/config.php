@@ -265,6 +265,7 @@ return [
         'PHPNeus_BannerSlider' => 1,
         'PHPNeus_CustomerAccount' => 1,
         'PHPNeus_Menu' => 1,
+        'PHPNeus_Qty' => 1,
         'PHPNeus_TextLink' => 1,
         'Temando_ShippingRemover' => 1,
         'Vertex_Tax' => 1,

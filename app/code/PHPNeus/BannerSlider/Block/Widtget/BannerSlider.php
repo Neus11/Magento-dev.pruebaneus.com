@@ -14,7 +14,7 @@ class BannerSlider extends Template implements BlockInterface
    
     public function __construct(
         \Magento\Framework\View\Element\Template\Context $context,
-        \PHPCuong\BannerSlider\Model\BannerFactory $bannerFactory,
+        \PHPNeus\BannerSlider\Model\BannerFactory $bannerFactory,
         array $data = []
     ) {
         $this->bannerFactory = $bannerFactory;
