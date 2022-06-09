@@ -267,6 +267,7 @@ return [
         'PHPNeus_Menu' => 1,
         'PHPNeus_Qty' => 1,
         'PHPNeus_TextLink' => 1,
+        'PHPNeus_TransactionalEmail' => 1,
         'Temando_ShippingRemover' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
